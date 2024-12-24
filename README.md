@@ -22,7 +22,7 @@ A secure multi-threaded chat application built with Python, enabling real-time e
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pychat.git
+git clone https://github.com/PM4305/pychat.git
 cd pychat
 
 # Install dependencies
